@@ -1,0 +1,15 @@
+/home/vinicius/Área de Trabalho/exercise-interface/bin/Debug/net6.0/exercise-interface
+/home/vinicius/Área de Trabalho/exercise-interface/bin/Debug/net6.0/exercise-interface.deps.json
+/home/vinicius/Área de Trabalho/exercise-interface/bin/Debug/net6.0/exercise-interface.runtimeconfig.json
+/home/vinicius/Área de Trabalho/exercise-interface/bin/Debug/net6.0/exercise-interface.dll
+/home/vinicius/Área de Trabalho/exercise-interface/bin/Debug/net6.0/ref/exercise-interface.dll
+/home/vinicius/Área de Trabalho/exercise-interface/bin/Debug/net6.0/exercise-interface.pdb
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.csproj.AssemblyReference.cache
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.AssemblyInfoInputs.cache
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.AssemblyInfo.cs
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.csproj.CoreCompileInputs.cache
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.dll
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/ref/exercise-interface.dll
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.pdb
+/home/vinicius/Área de Trabalho/exercise-interface/obj/Debug/net6.0/exercise-interface.genruntimeconfig.cache
